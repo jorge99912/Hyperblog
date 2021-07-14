@@ -47,8 +47,13 @@ body
 }
 #post
 {
-    background: gray;
+    background: white;
     padding: 1em;
+}
+
+.pie {
+    padding: 0.001em;
     color: black;
     text-align: center;
-} 
+    background-color: gray;
+}
