@@ -47,6 +47,8 @@ body
 }
 #post
 {
-    background: white;
+    background: gray;
     padding: 1em;
+    color: black;
+    text-align: center;
 } 
